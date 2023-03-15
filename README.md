@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. Welcome to my GitHub page. 👋
 
 <!--
 **ajgquional/ajgquional** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🚀 I'm an IoT researcher and an AI/ML, robotics, and space technology enthusiast
+- 🤖 I'm a certified robotics educator (VEX IQ, VEXcode VR, Arduino)
+- 🎮 I'm a 2D/3D game design educator (Roblox, Scratch, Phaser, Unity)
+- 💻 I'm an independent coding educator (JavaScript, Scratch, Python)
