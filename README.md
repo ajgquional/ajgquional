@@ -31,3 +31,5 @@ Here are some ideas to get you started:
 - 📫 You may reach me at:
   - agquional@up.edu.ph (for general academic and professional matters)
   - adrianjosele.tcs@gmail.com (for robotics education matters)
+
+![](https://komarev.com/ghpvc/?username=ajgquional&color=blue)
